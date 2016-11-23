@@ -1,0 +1,268 @@
+This is pdfTeX, Version 3.14159-1.00b-pretest-20020211 (Web2c 7.3.7x) (format=pdflatex 2003.2.21)  19 MAR 2003 03:01
+**SPIE03Draft2.tex
+(./SPIE03Draft2.tex{c:/Program Files/TeXLive/texmf-var/pdftex/config/pdftex.cfg
+}
+LaTeX2e <2001/06/01>
+Loading CZ hyphenation patterns: Pavel Sevecek, v3, 1995
+Loading SK hyphenation patterns: Jana Chlebikova, 1992
+Babel <v3.7h> and hyphenation patterns for english, dumylang, nohyphenation, uk
+english, czech, slovak, loaded.
+(./spie.cls
+Document Class: spie 2002/09/18 v2.71 SPIE Proceedings class
+(c:/Program Files/TeXLive/texmf/tex/latex/base/article.cls
+Document Class: article 2001/04/21 v1.4e Standard LaTeX document class
+(c:/Program Files/TeXLive/texmf/tex/latex/base/size10.clo
+File: size10.clo 2001/04/21 v1.4e Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+ten-point font
+\c@theorem=\count87
+\@tempcntc=\count88
+\@minsofar=\count89
+\@min=\count90
+\@cite@temp=\count91
+) (c:/Program Files/TeXLive/texmf/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/Program Files/TeXLive/texmf/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(c:/Program Files/TeXLive/texmf/tex/latex/graphics/graphics.sty
+Package: graphics 2001/07/07 v1.0n Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/Program Files/TeXLive/texmf/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(c:/Program Files/TeXLive/texmf/tex/latex/texlive/graphics.cfg
+File: graphics.cfg 2001/08/31 v1.1 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 80.
+
+(c:/Program Files/TeXLive/texmf/tex/latex/graphics/pdftex.def
+File: pdftex.def 2001/11/29 v0.03i graphics/color for pdftex
+\Gread@gobject=\count92
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(c:/Program Files/TeXLive/texmf/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip10
+Package: url 1999/03/28  ver 1.5x  Verb mode for urls, etc.
+)
+
+! LaTeX Error: File `listings.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+
+! LaTeX Error: File `overpic.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+(c:/Program Files/TeXLive/texmf/tex/latex/graphics/color.sty
+Package: color 1999/02/16 v1.0i Standard LaTeX Color (DPC)
+
+(c:/Program Files/TeXLive/texmf/tex/latex/texlive/color.cfg
+File: color.cfg 2001/08/31 v1.1 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 125.
+)
+(c:/Program Files/TeXLive/texmf/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(c:/Program Files/TeXLive/texmf/tex/latex/amslatex/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(c:/Program Files/TeXLive/texmf/tex/latex/amslatex/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(c:/Program Files/TeXLive/texmf/tex/latex/amslatex/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen105
+))
+(c:/Program Files/TeXLive/texmf/tex/latex/amslatex/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen106
+)
+(c:/Program Files/TeXLive/texmf/tex/latex/amslatex/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count93
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count94
+\leftroot@=\count95
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count96
+\DOTSCASE@=\count97
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count98
+\c@MaxMatrixCols=\count99
+\dotsspace@=\muskip11
+\c@parentequation=\count100
+\dspbrk@lvl=\count101
+\tag@help=\toks16
+\row@=\count102
+\column@=\count103
+\maxfields@=\count104
+\andhelp@=\toks17
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks18
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(c:/Program Files/TeXLive/texmf/tex/latex/ltxmisc/ulem.sty
+\UL@box=\box28
+\UL@hyphenbox=\box29
+\UL@skip=\skip46
+\UL@hook=\toks20
+\UL@pe=\count105
+\UL@pixel=\dimen114
+\ULC@box=\box30
+Package: ulem 2000/05/26
+\ULdepth=\dimen115
+)
+\c@cmt=\count106
+ (./SPIE03Draft2.aux)
+\openout1 = `SPIE03Draft2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+ (c:/Program Files/TeXLive/texmf/tex/context/base/supp-pdf.tex
+(c:/Program Files/TeXLive/texmf/tex/context/base/supp-mis.tex
+loading : Context Support Macros / Missing
+\protectiondepth=\count107
+\scratchcounter=\count108
+\scratchtoks=\toks21
+\scratchdimen=\dimen116
+\scratchskip=\skip47
+\scratchmuskip=\muskip12
+\scratchbox=\box31
+\scratchread=\read1
+\scratchwrite=\write3
+\zeropoint=\dimen117
+\nextbox=\box32
+\nextdepth=\dimen118
+\everyline=\toks22
+\!!counta=\count109
+\!!countb=\count110
+\recursecounter=\count111
+)
+loading : Context Support Macros / PDF
+\nofMPsegments=\count112
+\nofMParguments=\count113
+\everyMPtoPDFconversion=\toks23
+)
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 80.
+ (c:/Program Files/TeXLive/texmf/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 80.
+ [1
+
+{c:/Program Files/TeXLive/texmf-var/dvips/config/pdftex.map}] [2] [3] [4]
+Overfull \hbox (18.4459pt too wide) in paragraph at lines 182--207
+[][] [] 
+ []
+
+[5] [6] [7]
+
+! LaTeX Error: Environment overpic undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.271 \begin{overpic}
+                     [scale=0.45]{DemoLPRAccuracy}
+? 
+
+! LaTeX Error: \begin{figure} on input line 269 ended by \end{overpic}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.274 \end{overpic}
+                   
+? 
+LaTeX Font Info:    Font shape `OMS/cmr/bx/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 376.
+[8] (./SPIE03Draft2.bbl [9]) [10] (./SPIE03Draft2.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1853 strings out of 50426
+ 21892 string characters out of 1189502
+ 80721 words of memory out of 1500001
+ 4832 multiletter control sequences out of 10000+15000
+ 13773 words of font info for 49 fonts, out of 210000 for 1000
+ 19 hyphenation exceptions out of 1000
+ 29i,16n,30p,3215b,497s stack positions out of 3000i,500n,3000p,200000b,40000s
+ 92 PDF objects out of 200000
+ 0 named destinations out of 131072
+ 0 words of extra memory for PDF output out of 65536
+<c:/Program Files/TeXLive/texmf/fonts/type1/bluesky/cm/cmbx5.pfb><c:/Program 
+Files/TeXLive/texmf/fonts/type1/bluesky/cm/cmbxsl10.pfb><c:/Program Files/TeXLi
+ve/texmf/fonts/type1/bluesky/cm/cmbsy10.pfb><c:/Program Files/TeXLive/texmf/fon
+ts/type1/bluesky/cm/cmmi10.pfb><c:/Program Files/TeXLive/texmf/fonts/type1/blue
+sky/cm/cmsltt10.pfb><c:/Program Files/TeXLive/texmf/fonts/type1/bluesky/cm/cmsy
+6.pfb><c:/Program Files/TeXLive/texmf/fonts/type1/bluesky/cm/cmsy7.pfb><c:/Prog
+ram Files/TeXLive/texmf/fonts/type1/bluesky/cm/cmtt10.pfb><c:/Program Files/TeX
+Live/texmf/fonts/type1/bluesky/cm/cmbx9.pfb><c:/Program Files/TeXLive/texmf/fon
+ts/type1/bluesky/cm/cmtt9.pfb><c:/Program Files/TeXLive/texmf/fonts/type1/blues
+ky/cm/cmr9.pfb><c:/Program Files/TeXLive/texmf/fonts/type1/bluesky/cm/cmr7.pfb>
+<c:/Program Files/TeXLive/texmf/fonts/type1/bluesky/cm/cmr5.pfb><c:/Program Fil
+es/TeXLive/texmf/fonts/type1/bluesky/cm/cmsl10.pfb><c:/Program Files/TeXLive/te
+xmf/fonts/type1/bluesky/cm/cmsy10.pfb><c:/Program Files/TeXLive/texmf/fonts/typ
+e1/bluesky/cm/cmr10.pfb><c:/Program Files/TeXLive/texmf/fonts/type1/bluesky/cm/
+cmti9.pfb><c:/Program Files/TeXLive/texmf/fonts/type1/bluesky/cm/cmr12.pfb><c:/
+Program Files/TeXLive/texmf/fonts/type1/bluesky/cm/cmbx10.pfb><c:/Program Files
+/TeXLive/texmf/fonts/type1/bluesky/cm/cmbx12.pfb>
+Output written on SPIE03Draft2.pdf (10 pages, 190269 bytes).
